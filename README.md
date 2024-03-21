@@ -4,12 +4,6 @@
 
 Welcome to my GitHub profile! I'm Anna Mikula, a Full Stack Software Developer with over 3 years of experience. I'm passionate about creating applications that empower others and communities. In my free time, I enjoy growing my own vegetables, building LEGO sets, and cooking delicious meals.
 
-## About Me
-
-- **Profession:** Full Stack Software Developer
-- **Experience:** 3+ years
-- **Location:** Madison, WI (soon relocating to Chicago, IL)
-
 ## Projects
 
 Here are some of the projects I've worked on:
