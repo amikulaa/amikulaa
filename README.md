@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anna Mikula (@amikulaa)
+# ☕️ Hi, I'm Anna Mikula (@amikulaa)
 
 ## Introduction
 
