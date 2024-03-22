@@ -8,11 +8,9 @@ Welcome to my GitHub profile! I'm Anna Mikula, a Full Stack Software Developer w
 
 Here are some of the projects I've worked on:
 
-### Project 1: Web Permit Application
+### [Project 1: Web Permit Application](https://github.com/amikulaa/online-permit-application)
 
 This online web application serves as a platform for submitting zoning permit applications. Upon receiving the existing PDF format utilized by the organization, I developed this digital application to offer a more user-friendly interface. The platform features a drawing tool, facilitates basic data retrieval, and incorporates input validation complemented by Swal alerts for enhanced user experience.
-
-- **[GitHub Repository:](https://github.com/amikulaa/online-permit-application)**
   
 ## Get in Touch
 
