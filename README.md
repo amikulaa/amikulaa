@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm Anna Mikula, a Full Stack Software Developer with over 3 years of experience. I'm passionate about creating applications that empower others and communities. In my free time, I enjoy growing my own vegetables, building LEGO sets, and cooking delicious meals.
+Welcome to my GitHub profile! I'm Anna Mikula, a Full Stack Software Developer. I'm passionate about creating applications that empower others and communities. In my free time, I enjoy growing my own vegetables, building LEGO sets, and cooking delicious meals.
 
 ## Projects
 
