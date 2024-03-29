@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm Anna Mikula, a Full Stack Software Developer. I'm passionate about creating applications that empower others and communities. 
+Welcome to my GitHub profile! I'm Anna, a Full Stack Software Developer. I'm passionate about creating applications that empower others and communities. 
 
 ## Projects
 
