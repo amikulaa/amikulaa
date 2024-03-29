@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Anna Mikula, a Full Stack Software Developer w
 
 ## Projects
 
-Here are some of the projects I've worked on:
+Here are some of the projects I've recently worked on:
 
 ### [Project 1: Web Permit Application](https://github.com/amikulaa/online-permit-application)
 
