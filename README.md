@@ -19,7 +19,7 @@ The dashboard is specifically designed for an internal department to manage and 
 
 ### [Project 3: Web Medical Examinar Dashboard](https://github.com/amikulaa/medical-examiner)
 
-The Medical Examiner web application serves as the primary platform for data collection within the internal Medical Examiner department. This application hosts over 10 forms and facilitates custom queries based on database columns. Additionally, it features pinned reports tailored to individual requirements. The platform also allows for internal maintenance of tables to address emergency situations, taking into account variations in work schedules and urgent scenarios. For user guidance and training, the application is supplemented with instructional videos and slideshow tutorials.
+The Medical Examiner web application serves as the primary platform for data collection within the internal Medical Examiner department. This application hosts forms and facilitates custom queries based on database columns. Additionally, it features pinned reports tailored to individual requirements. The platform also allows for internal maintenance of tables to address emergency situations, taking into account variations in work schedules and urgent scenarios. For user guidance and training, the application is supplemented with instructional videos and slideshow tutorials.
   
 ### [Project 4: Graphing Page](https://github.com/amikulaa/graphing-query)
 
