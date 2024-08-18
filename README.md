@@ -12,7 +12,7 @@ Here are some of the projects I've recently worked on:
 
 This online web application serves as a platform for submitting zoning permit applications. Upon receiving the existing PDF format utilized by the organization, I developed this digital application to offer a more user-friendly interface. The platform features a drawing tool, facilitates basic data retrieval, and incorporates input validation complemented by Swal alerts for enhanced user experience.
 
-### [Project 2: Application Dashbaord](https://github.com/amikulaa/zoning-dashboard)
+### [Project 2: Application Dashboard](https://github.com/amikulaa/zoning-dashboard)
 
 The dashboard is specifically designed for an internal department to manage and process permit applications. It enables staff to review applications, make decisions such as approval or denial, and initiate communication with applicants as necessary. Key features of this dashboard include a graphical landing page for visual representation of data, efficient quick query functionalities, and robust data handling capabilities.
 
