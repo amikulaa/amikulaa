@@ -1,7 +1,7 @@
 # ☕️ Hi, I'm Anna Mikula (@amikulaa) 
 
 ## Introduction 
-Welcome to my GitHub profile! I'm Anna, a Senior Web Application and Software Developer. I'm passionate about creating applications that empower others and communities.
+Welcome to my GitHub profile! I'm Anna, a web application developer focused on building internal tools and systems that support real-world workflows. I work primarily in PHP, JavaScript, and SQL, and enjoy turning messy processes into tools that people can actually rely on.
 
 ## Projects
 Here are some of the projects I've recently worked on:
